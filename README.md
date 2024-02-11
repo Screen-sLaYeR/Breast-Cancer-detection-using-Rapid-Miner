@@ -3,11 +3,12 @@ ThinkML Submission of Group no 19
 Breast Cancer Risk Prediction Repository
 
 # Team details Contact info
-Ram Gupta
-9820353795
-ramgupta1106@gmail.com
-Venkatesh Sakali
-88503 33309
+Ram Gupta <br>
+9820353795 <br>
+ramgupta1106@gmail.com <br>
+Venkatesh Sakali <br>
+8850333309 <br>
+venkysakali@gmail.com <br>
 
 # Introduction
 Our model aims to predict the risk of breast cancer using a binary classification approach based on biopsy data. Early detection of breast cancer is crucial for timely intervention and improved patient outcomes.
@@ -39,6 +40,8 @@ the F1 score is 0.4883
 Our project introduces novel feature engineering techniques, contributing to improved predictive capabilities. The incorporation of these features enhances the model's ability to discern subtle patterns in the biopsy data.
 
 # 1 Min Video Explanation
-A concise 1-minute video explaining our project is available here.
+https://github.com/Screen-sLaYeR/Breast-Cancer-detection-using-Rapid-Miner/blob/main/RapidMiner_TML19.mp4
 
 References
+
+https://www.youtube.com/watch?v=g5hI6wmdijM&list=PL8l7AbNQ9MfQWIwifBuCFbw8PYwur5znc
