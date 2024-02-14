@@ -34,7 +34,7 @@ The model's performance was evaluated through precision, recall, and ROC-AUC ana
 
 # F1 Score
 We calculated the F1 score, striking a balance between precision and recall. The F1 score is crucial for assessing the model's effectiveness in handling both false positives and false negatives.
-the F1 score is 0.4883
+the F1 score is 0.9766
 
 # Novelty Factor
 Our project introduces novel feature engineering techniques, contributing to improved predictive capabilities. The incorporation of these features enhances the model's ability to discern subtle patterns in the biopsy data.
